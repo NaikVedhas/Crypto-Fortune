@@ -56,6 +56,32 @@
 				"type": "function"
 			},
 			{
+				"inputs": [],
+				"name": "random",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "selectWinner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"stateMutability": "payable",
 				"type": "receive"
 			}
@@ -88,11 +114,11 @@
 	},
 	"sources": {
 		"tests/Project.sol": {
-			"keccak256": "0x80eb8c23e8f03e6982a56279b65f3fddd0a427b2b6f76343c368d5bd851b893b",
+			"keccak256": "0x6d66f04e7bf0e2ecb7ded103a15c0fdbdbf9b3811a9c83f96d959e95fc413369",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5e7b3957df5eda0dcd9bb46dc0330a6ece26e04a52febcae0c6a72f1b06ab387",
-				"dweb:/ipfs/QmaVGPKeMMEUKrGC57p7r2qiWfZPiNxUBBZQGhSDHSrVMb"
+				"bzz-raw://ab0a97ea0efd56be571e1dba39351312ec81425c2baeb56e1ac7c7bb48b35a8b",
+				"dweb:/ipfs/QmeQZqJYicjCryiCJ3zbQdoaMqi5DJaNthKgWzMASwpTB7"
 			]
 		}
 	},
